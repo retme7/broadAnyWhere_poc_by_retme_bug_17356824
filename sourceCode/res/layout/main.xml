@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="56dp"
+        android:layout_y="44dp"
+        android:text="Bug 17356824  Poc\n           By  retme"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="51dp"
+        android:layout_y="254dp"
+        android:text="receive a fake sms from 911" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="196dp"
+        android:layout_height="wrap_content"
+        android:layout_x="52dp"
+        android:layout_y="187dp"
+        android:text="factory reset" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="192dp"
+        android:layout_height="wrap_content"
+        android:layout_x="55dp"
+        android:layout_y="124dp"
+        android:text="crash system_server" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="88dp"
+        android:layout_y="336dp"
+        android:text="http://blogs.360.cn" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="89dp"
+        android:layout_y="374dp"
+        android:text="http://retme.net" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="74dp"
+        android:layout_y="12dp"
+        android:text="broadAnywhere"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+<!-- 
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="196dp"
+        android:layout_height="wrap_content"
+        android:layout_x="54dp"
+        android:layout_y="430dp"
+        android:text="debug" />
+ -->
+</AbsoluteLayout>
