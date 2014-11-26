@@ -12,4 +12,10 @@ demo video:http://v.youku.com/v_show/id_XODI1NTgxMDYw.html
 
 more info: http://blogs.360.cn/360mobile/
 		
-		   http://retme.net/index.php/2014/11/14/broadAnywhere-bug-17356824.html
+http://retme.net/index.php/2014/11/14/broadAnywhere-bug-17356824.html
+
+UPDATE(11.26):
+
+Baidu X-Team report this bug,the CVE number is CVE-2014-8609:
+http://seclists.org/fulldisclosure/2014/Nov/81
+
